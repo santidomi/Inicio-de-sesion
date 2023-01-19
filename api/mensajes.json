@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "5:48 pm",
+    "author": {
+      "email": "lamensa@gmail.com",
+      "nombre": "Jose",
+      "apellido": "Lamensa",
+      "edad": "21",
+      "alias": "Jose ",
+      "avatar": "https://img.icons8.com/color/512/secretary-woman-skin-type-1.png"
+    },
+    "text": "Chat con websocket.io",
+    "id": 1
+  },
+  {
+    "author": {
+      "email": "lamensa@gmail.com",
+      "nombre": "Jose",
+      "apellido": "Lamensa",
+      "edad": "21",
+      "alias": "Pepe",
+      "avatar": "https://img.icons8.com/color/512/secretary-woman-skin-type-1.png"
+    },
+    "text": "Funciona",
+    "timestamp": "10:19 pm",
+    "id": 2
+  },
+  {
+    "author": {
+      "email": "josejose@gmail.com",
+      "nombre": "Jose",
+      "apellido": "Lamensa",
+      "edad": "21",
+      "alias": "Pepito",
+      "avatar": "https://img.icons8.com/color/512/secretary-woman-skin-type-1.png"
+    },
+    "text": "Mensaje de pepito",
+    "timestamp": "4:43 pm",
+    "id": 3
+  }
+]
